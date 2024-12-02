@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kauephbgames
-- 👀 I’m interested in Game developer
+- 👀 I’m interested in Game developing
 - 🌱 I’m currently learning unity and c#
 - 💞️ I’m looking to collaborate on GameDev PHB
 - 📫 How to reach me kauephbnet@gmail.com
