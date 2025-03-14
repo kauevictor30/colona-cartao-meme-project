@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vks
 - 👀 I’m interested in Game developing
-- 🌱 I’m currently learning unity and c#
+- 🌱 I’m currently learning pythom.
 - 💞️ I’m looking to collaborate on GameDev PHB
 - 📫 How to reach me kauephbnet@gmail.com
   
