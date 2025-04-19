@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @vks
-- 👀 I’m interested in Game developing
-- 🌱 I’m currently learning pythom.
-- 💞️ I’m looking to collaborate on GameDev PHB
-- 📫 How to reach me kauephbnet@gmail.com
-  
+# 🃏 Clona Cartão Meme Project
 
-<!---
-kauephbgames/kauephbgames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Este foi o **meu primeiro projeto de desenvolvimento**! Uma pequena brincadeira visual que transforma o clássico meme da "clona" em um cartão estilizado — feito com **HTML e CSS puro**, para praticar estruturação e estilização de páginas.
+
+## 🚀 Tecnologias Usadas
+
+- HTML5
+- CSS3
+
+## ✨ O que aprendi com esse projeto
+
+- Estrutura básica de um documento HTML.
+- Como usar CSS para estilizar elementos.
+- Princípios de responsividade (em estágio inicial).
+- Como publicar um repositório no GitHub.
+
+## 🎯 Objetivo
+
+O objetivo principal foi **praticar e aprender**. Esse projeto representa meu pontapé inicial no mundo do desenvolvimento web!
+
+## 📬 Contato
+
+Feito com carinho por [Kaue Victor](https://github.com/kauevictor30).  
+Me segue aí pra acompanhar minha evolução! 🚀
