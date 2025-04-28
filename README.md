@@ -1,6 +1,6 @@
 # 🃏 Clona Cartão Meme Project
 
-Este foi o **meu primeiro projeto de desenvolvimento**! Uma pequena brincadeira visual que transforma o clássico meme da "clona" em um cartão estilizado — feito com **HTML e CSS puro**, para praticar estruturação e estilização de páginas.
+Este foi o **meu primeiro projeto de desenvolvimento**! Uma pequena brincadeira visual relacionado à clonagem de cartão na web — feito com **HTML e CSS puro**, para praticar estruturação e estilização de páginas.
 
 ## 🚀 Tecnologias Usadas
 
