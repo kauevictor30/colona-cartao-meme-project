@@ -18,13 +18,28 @@ body{
 }
 
 
-
-section {
-    border: 1px solid;
-    width: 80%;
-    border: 0;
-    border-radius: 10px;
+.circulo {
+    width: 1000px;
+    height: 1000px;
+    margin: 0;
+    padding: 0;
+    border-radius: 100%;
+    background-color: blueviolet;
+    position: relative;
+    z-index: 1;
+    section {
+        border: 1px solid;
+        width: 80%;
+        border: 0;
+        border-radius: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        color: #202020;
+        z-index: 2;
+    }
 }
+
 
 input {
     padding: 10px;
@@ -39,7 +54,7 @@ input {
 }
 
 button {
-    background-color: rgb(21, 255, 0);
+    background-color: rgb(0, 255, 64);
     font-size: 20px;
     color: #ffffff;
     margin: 10px 0;
@@ -70,6 +85,7 @@ img {
 .estilizar {
     display: flex;
 }
+
 
 @keyframes pulsar {
     0% {
